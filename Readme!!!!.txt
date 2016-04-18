@@ -1,7 +1,5 @@
-porfavor quiero que me leas pendejo!!!!
-ya me leiste?? 
+Esto ya es para una nueva rama
+(branch) del repositorio Pro2
 
-Si! ya te he leido 
-cual es tu fucking problem dude_______?
-
-a ver que putas con esta mierda mucha
+este es el segundo commit de
+Vetto (branch)
